@@ -13,5 +13,5 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-selvaganeshr-blue?style=flat&logo=linkedin)](https://linkedin.com/in/selvaganeshr)
-[![Instagram](https://img.shields.io/badge/Instagram-selvaganeshr-purple?style=flat&logo=instagram)](https://instagram.com/selvaganeshr)
-[![Twitter](https://img.shields.io/badge/Twitter-selvaganeshr-black?style=flat&logo=twitter)](https://twitter.com/selvaganeshr)
+[![Instagram](https://img.shields.io/badge/Instagram-selvaganeshr-purple?style=flat&logo=instagram)](https://www.instagram.com/_selvaganeshr_/)
+[![Twitter](https://img.shields.io/badge/Twitter-selvaganeshr-black?style=flat&logo=twitter)](https://x.com/_selvaganeshr_)

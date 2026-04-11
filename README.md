@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Server Management & Network Security**
 - 🌱 I’m currently learning **Cloud Infrastructure (AWS/Azure)**
 - 🌐 My Website: [selvaganesh-r.vercel.app](https://selvaganesh-r.vercel.app/)
-- 📧 Reach me at: [Unga Email]
+- 📧 Reach me at: [selvaganesh582001@gmail.com]
 
 ### 🛠 Tech Stack
 **OS:** Linux (Ubuntu/CentOS), Windows Server  

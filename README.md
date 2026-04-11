@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Selvaganesh R
+### System Administrator
 
-<!--
-**selvaganeshr-sys/selvaganeshr-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Server Management & Network Security**
+- 🌱 I’m currently learning **Cloud Infrastructure (AWS/Azure)**
+- 🌐 My Website: [selvaganesh-r.vercel.app](https://selvaganesh-r.vercel.app/)
+- 📧 Reach me at: [Unga Email]
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+**OS:** Linux (Ubuntu/CentOS), Windows Server  
+**Tools:** Docker, Git, Shell Scripting, Active Directory  
+**Cloud:** Vercel, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-selvaganeshr-blue?style=flat&logo=linkedin)](https://linkedin.com/in/selvaganeshr)
+[![Instagram](https://img.shields.io/badge/Instagram-selvaganeshr-purple?style=flat&logo=instagram)](https://instagram.com/selvaganeshr)
+[![Twitter](https://img.shields.io/badge/Twitter-selvaganeshr-black?style=flat&logo=twitter)](https://twitter.com/selvaganeshr)

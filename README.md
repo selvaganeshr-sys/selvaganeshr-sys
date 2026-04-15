@@ -1,5 +1,5 @@
 # Hi 👋, I'm Selvaganesh R
-### System Administrator
+### System Admin at Giniminds
 
 - 🔭 I’m currently working on **Server Management & Network Security**
 - 🌱 I’m currently learning **Cloud Infrastructure (AWS/Azure)**

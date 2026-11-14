@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Server Management & Network Security**
 - 🌱 I’m currently learning **Cloud Infrastructure (AWS/Azure)**
-- 🌐 My Website: [selvaganesh-r.vercel.app](https://selvaganesh-r.vercel.app/)
+- 🌐 My Website: [selvaganeshr.online](https://selvaganeshr.online/)
 - 📧 Reach me at: [selvaganesh582001@gmail.com]
 
 ### 🛠 Tech Stack
